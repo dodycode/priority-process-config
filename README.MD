@@ -1,1 +1,1 @@
-My personal priority process regedit script for gaming optimizations
+# My personal priority process regedit script for gaming optimizations
